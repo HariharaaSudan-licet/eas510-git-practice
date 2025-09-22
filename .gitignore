@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & models
+data/
+models/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
